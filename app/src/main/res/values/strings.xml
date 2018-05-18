@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RepositoryReader</string>
+    <string name="err_failed_to_get_repositories">リポジトリ情報の取得に失敗しました</string>
+</resources>
